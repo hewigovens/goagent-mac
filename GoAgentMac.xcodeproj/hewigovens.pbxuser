@@ -1,0 +1,346 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {961, 410}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+			sepNavWindowFrame = "{{15, 68}, {750, 934}}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* cocoaPracAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {961, 496}}";
+			sepNavSelRange = "{419, 0}";
+			sepNavVisRange = "{0, 621}";
+			sepNavWindowFrame = "{{207, 109}, {750, 710}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* cocoaPracAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {961, 1703}}";
+			sepNavSelRange = "{1326, 0}";
+			sepNavVisRange = "{340, 1523}";
+			sepNavWindowFrame = "{{15, 68}, {750, 930}}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* GoAgentMac_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {961, 410}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 149}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 8D9FB075143DC32D009A3211 /* GoAgent */;
+		activeTarget = 8D1107260486CEB800E47090 /* GoAgent */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* GoAgent */,
+		);
+		breakpoints = (
+			8DDD1E9E144418F400F1441F /* TaskWrapper.m:49 */,
+			8DE236B0144576170013D832 /* cocoaPracAppDelegate.m:113 */,
+			8DE2372014457E800013D832 /* cocoaPracAppDelegate.m:82 */,
+		);
+		codeSenseManager = 8D9FB082143DC356009A3211 /* Code sense */;
+		executables = (
+			8D9FB075143DC32D009A3211 /* GoAgent */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					783,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					743,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 340687210;
+			PBXWorkspaceStateSaveDate = 340687210;
+		};
+		perUserProjectItems = {
+			8D99A8FB14495D76004B63B1 /* PBXTextBookmark */ = 8D99A8FB14495D76004B63B1 /* PBXTextBookmark */;
+			8D99A8FC14495D76004B63B1 /* PBXTextBookmark */ = 8D99A8FC14495D76004B63B1 /* PBXTextBookmark */;
+			8D9DB089144E797C00B1ABBF /* PlistBookmark */ = 8D9DB089144E797C00B1ABBF /* PlistBookmark */;
+			8D9DB08A144E797C00B1ABBF /* PBXTextBookmark */ = 8D9DB08A144E797C00B1ABBF /* PBXTextBookmark */;
+			8D9DB08B144E797C00B1ABBF /* PBXTextBookmark */ = 8D9DB08B144E797C00B1ABBF /* PBXTextBookmark */;
+			8DE2353E144555B30013D832 /* PBXTextBookmark */ = 8DE2353E144555B30013D832 /* PBXTextBookmark */;
+			8DE23541144555B30013D832 /* PBXTextBookmark */ = 8DE23541144555B30013D832 /* PBXTextBookmark */;
+			8DE237731445E36E0013D832 /* PBXTextBookmark */ = 8DE237731445E36E0013D832 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8D9FB081143DC356009A3211 /* Source Control */;
+		userBookmarkGroup = 8DDD1E001442E18400F1441F /* PBXBookmarkGroup */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {998, 604}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 251}";
+			sepNavWindowFrame = "{{241, 68}, {750, 710}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* GoAgent */ = {
+		activeExec = 0;
+		executables = (
+			8D9FB075143DC32D009A3211 /* GoAgent */,
+		);
+	};
+	8D1107310486CEB800E47090 /* GoAgentMac-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 66}, {750, 712}}";
+		};
+	};
+	8D99A8FB14495D76004B63B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* GoAgentMac_Prefix.pch */;
+		name = "GoAgentMac_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 149;
+		vrLoc = 0;
+	};
+	8D99A8FC14495D76004B63B1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	8D9DB089144E797C00B1ABBF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* GoAgentMac-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFile,
+		);
+		name = "/Users/hewigovens/Documents/cocoaPrac/GoAgentMac-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	8D9DB08A144E797C00B1ABBF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* cocoaPracAppDelegate.m */;
+		name = "cocoaPracAppDelegate.m: 45";
+		rLen = 0;
+		rLoc = 1326;
+		rType = 0;
+		vrLen = 1154;
+		vrLoc = 340;
+	};
+	8D9DB08B144E797C00B1ABBF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* cocoaPracAppDelegate.m */;
+		name = "cocoaPracAppDelegate.m: 45";
+		rLen = 0;
+		rLoc = 1326;
+		rType = 0;
+		vrLen = 1523;
+		vrLoc = 340;
+	};
+	8D9FB075143DC32D009A3211 /* GoAgent */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GoAgent;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	8D9FB081143DC356009A3211 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8D9FB082143DC356009A3211 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DDD1DBF144123F200F1441F /* TaskWrapper.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = TaskWrapper.m;
+		path = /Users/hewigovens/Documents/cocoaPrac/TaskWrapper.m;
+		sourceTree = "<absolute>";
+	};
+	8DDD1E001442E18400F1441F /* PBXBookmarkGroup */ = {
+		isa = PBXBookmarkGroup;
+		children = (
+			8DDD1E781444168400F1441F /* PBXBookmark */,
+		);
+		name = Root;
+	};
+	8DDD1E781444168400F1441F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* cocoaPracAppDelegate.m */;
+	};
+	8DDD1E9E144418F400F1441F /* TaskWrapper.m:49 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8DDD1DBF144123F200F1441F /* TaskWrapper.m */;
+		functionName = "-startProcess";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 49;
+		modificationTime = 340098875.219018;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8DE2353E144555B30013D832 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8DE2353F144555B30013D832 /* iPingAppDelegate.h */;
+		name = "iPingAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 502;
+		vrLoc = 0;
+	};
+	8DE2353F144555B30013D832 /* iPingAppDelegate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = iPingAppDelegate.h;
+		path = /Users/hewigovens/workspace/iPing/iPingAppDelegate.h;
+		sourceTree = "<absolute>";
+	};
+	8DE23541144555B30013D832 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8DE23542144555B30013D832 /* iPingAppDelegate.m */;
+		name = "iPingAppDelegate.m: 30";
+		rLen = 0;
+		rLoc = 640;
+		rType = 0;
+		vrLen = 1377;
+		vrLoc = 168;
+	};
+	8DE23542144555B30013D832 /* iPingAppDelegate.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = iPingAppDelegate.m;
+		path = /Users/hewigovens/workspace/iPing/iPingAppDelegate.m;
+		sourceTree = "<absolute>";
+	};
+	8DE236B0144576170013D832 /* cocoaPracAppDelegate.m:113 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* cocoaPracAppDelegate.m */;
+		functionName = "-dataReady:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 113;
+		location = cocoaPrac;
+		modificationTime = 340098699.743713;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8DE2372014457E800013D832 /* cocoaPracAppDelegate.m:82 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* cocoaPracAppDelegate.m */;
+		functionName = "-runGoagent";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 82;
+		location = cocoaPrac;
+		modificationTime = 340098705.7817;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8DE237731445E36E0013D832 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* cocoaPracAppDelegate.h */;
+		name = "cocoaPracAppDelegate.h: 19";
+		rLen = 0;
+		rLoc = 419;
+		rType = 0;
+		vrLen = 621;
+		vrLoc = 0;
+	};
+}
